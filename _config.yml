@@ -7,7 +7,7 @@ title: 唐黎明的博客
 subtitle: 一个理工男鸡零狗碎的生活
 description: 
 author: 唐黎明
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
